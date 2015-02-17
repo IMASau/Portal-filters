@@ -1,0 +1,23 @@
+<filters>
+  <filter>
+    <name>geom</name>
+    <type>BoundingBox</type>
+    <label>geom</label>
+    <visualised>true</visualised>
+    <excludedFromDownload>false</excludedFromDownload>
+  </filter>
+  <filter>
+    <name>observation_date</name>
+    <type>DateRange</type>
+    <label>Time</label>
+    <visualised>true</visualised>
+    <excludedFromDownload>false</excludedFromDownload>
+  </filter>
+  <filter>
+    <name>Family</name>
+    <type>String</type>
+    <label>Taxon Family</label>
+    <visualised>true</visualised>
+    <excludedFromDownload>false</excludedFromDownload>
+  </filter>
+</filters>
